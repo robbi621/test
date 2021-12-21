@@ -4,4 +4,4 @@ Keras-Models==0.0.7
 Keras-Preprocessing==1.1.2
 numpy
 pandas==1.3.5
-oopencv-python==4.5.2.54
+opencv-python==4.5.2.54
