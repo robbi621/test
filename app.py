@@ -7,7 +7,7 @@ import pandas as pd
 
 app = Flask(__name__)
 
-model = load_model('model_heroku.h5')
+model = load_model('model2_masker.h5')
 
 
 @app.route('/')
